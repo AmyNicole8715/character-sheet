@@ -58,7 +58,7 @@ html {
   display: flex;
   justify-content: space-around;
   min-height: 2.5em;
-  min-width: 50%;
+  min-width: 25%;
 }
 .userInput {
   height: 1em;
