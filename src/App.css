@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,30 @@
   to {
     transform: rotate(360deg);
   }
+}
+html {
+  background-image: url('E:\Users\dchec\Javascript\character-sheet\src\assets\images\undermountain.jpg');
+}
+.statstyle {
+  color: bisque;
+  font-family: 'MedievalSharp', cursive;
+  font-size: 2em;
+  display: flex;
+}
+.margarine {
+  margin: 10%;
+}
+.modifier {
+  
+  margin: 5%;
+}
+.statBlock {
+  display: flex;
+  justify-content: space-around;
+  min-height: 2.5em;
+  min-width: 50%;
+}
+.userInput {
+  height: 1em;
+  /* float: right; */
 }
