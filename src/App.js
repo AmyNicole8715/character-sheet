@@ -7,7 +7,7 @@ class App extends React.Component {
         return (
           <div className="margarine">
             <div className="statstyle">
-                STR:
+                <label>STR:</label>
                 <StatBlock />
             </div>
             <div className="statstyle">
