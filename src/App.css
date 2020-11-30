@@ -64,4 +64,5 @@ html {
 .userInput {
   height: 2em;
   width: 25px;
+  margin-left: 5px;
 }
